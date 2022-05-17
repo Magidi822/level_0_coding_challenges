@@ -11,4 +11,4 @@ def common_letters(str1, str2):
     print("Common letters: ", res)
 
 
-common_letters()
+common_letters("John", "snow")
