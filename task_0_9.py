@@ -13,6 +13,6 @@ def vowel_generator(str):
     print("Vowels:", res)
 
 
-vowel_generator()
+vowel_generator("Umuzi")
 
      
