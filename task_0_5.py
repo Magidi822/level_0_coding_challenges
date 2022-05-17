@@ -4,4 +4,4 @@ def area_of_triangle(side1, side2, side3):
     return area
 
 
-print(area_of_triangle())
+print(area_of_triangle(5, 6, 7))
