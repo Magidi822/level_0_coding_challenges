@@ -5,4 +5,4 @@ def maximum(*args):
             max_number = item
     return max_number
 
-print(maximum())
+print(maximum(5, 6, 7, 8))
