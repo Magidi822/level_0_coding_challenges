@@ -5,4 +5,4 @@ def even_or_odd(num):
         print("odd")
 
 
-even_or_odd()
+even_or_odd(20)
